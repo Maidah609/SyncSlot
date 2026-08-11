@@ -68,15 +68,19 @@ The app is built on TanStack Start (React 19 + Vite 7) with a Supabase-backed Lo
 
 | Landing | Features |
 | --- | --- |
-| ![Home](screenshots/home.png) | ![Features](screenshots/features.png) |
+| ![Home] <img width="914" height="473" alt="image" src="https://github.com/user-attachments/assets/d3275e44-ef84-498d-a699-01684775355e" /><img width="866" height="298" alt="image" src="https://github.com/user-attachments/assets/941039db-cd5b-463e-91f6-5b02e93db375" /><img width="866" height="308" alt="image" src="https://github.com/user-attachments/assets/c534fa2b-1b5b-4320-8379-0d448ea3030b" /><img width="860" height="410" alt="image" src="https://github.com/user-attachments/assets/1438e77a-7a6c-4999-9e72-6af4b88293ac" /> | ![Features](screenshots/features.png) <img width="934" height="470" alt="image" src="https://github.com/user-attachments/assets/b7327e1d-2731-4923-b7cd-a5502d02ce8f" /><img width="893" height="464" alt="image" src="https://github.com/user-attachments/assets/0c0c0451-c8c9-4d4f-b600-aaf4f2d7f49a" /><img width="923" height="464" alt="image" src="https://github.com/user-attachments/assets/61c2e30c-ae04-499f-97c2-33c68486a2bc" /> |
 
 | Pricing | Auth |
 | --- | --- |
-| ![Pricing](screenshots/pricing.png) | ![Auth](screenshots/auth.png) |
+| ![Pricing](screenshots/pricing.png) <img width="911" height="475" alt="image" src="https://github.com/user-attachments/assets/e0ccd83f-950a-4e3b-8c22-c6e8c3207e4b" />
+ | ![Auth](screenshots/auth.png) <img width="875" height="464" alt="image" src="https://github.com/user-attachments/assets/21f8c4b4-06ab-41f4-a3c9-34947634da96" />
+ |
 
 | About | Contact |
 | --- | --- |
-| ![About](screenshots/about.png) | ![Contact](screenshots/contact.png) |
+| ![About](screenshots/about.png) <img width="915" height="470" alt="image" src="https://github.com/user-attachments/assets/6ceabe4d-fad7-474e-9b6a-6cff9db16a69" />
+ | ![Contact](screenshots/contact.png) <img width="899" height="470" alt="image" src="https://github.com/user-attachments/assets/9a76eed5-0ab9-4e0c-9ea7-e4bea12a4981" />
+ |
 
 ## Tech Stack
 
