@@ -68,7 +68,7 @@ The app is built on TanStack Start (React 19 + Vite 7) with a Supabase-backed Lo
 
 [Home] <img width="914" height="473" alt="image" src="https://github.com/user-attachments/assets/d3275e44-ef84-498d-a699-01684775355e" /><img width="866" height="298" alt="image" src="https://github.com/user-attachments/assets/941039db-cd5b-463e-91f6-5b02e93db375" /><img width="866" height="308" alt="image" src="https://github.com/user-attachments/assets/c534fa2b-1b5b-4320-8379-0d448ea3030b" /><img width="860" height="410" alt="image" src="https://github.com/user-attachments/assets/1438e77a-7a6c-4999-9e72-6af4b88293ac" /> 
 
-[Features] <img width="934" height="470" alt="image" src="https://github.com/user-attachments/assets/b7327e1d-2731-4923-b7cd-a5502d02ce8f" /><img width="893" height="464" alt="image" src="https://github.com/user-attachments/assets/0c0c0451-c8c9-4d4f-b600-aaf4f2d7f49a" /><img width="923" height="464" alt="image" src="https://github.com/user-attachments/assets/61c2e30c-ae04-499f-97c2-33c68486a2bc" /> |
+[Features] <img width="934" height="470" alt="image" src="https://github.com/user-attachments/assets/b7327e1d-2731-4923-b7cd-a5502d02ce8f" /><img width="893" height="464" alt="image" src="https://github.com/user-attachments/assets/0c0c0451-c8c9-4d4f-b600-aaf4f2d7f49a" /><img width="923" height="464" alt="image" src="https://github.com/user-attachments/assets/61c2e30c-ae04-499f-97c2-33c68486a2bc" /> 
 
 [Pricing](screenshots/pricing.png) <img width="911" height="475" alt="image" src="https://github.com/user-attachments/assets/e0ccd83f-950a-4e3b-8c22-c6e8c3207e4b" />
 
